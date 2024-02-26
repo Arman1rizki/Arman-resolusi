@@ -1,2 +1,2 @@
 # Arman-resolusi
-Repository untuk menyimapan rencana Arman kedepannya
+Repository untuk menyimpan rencana Arman kedepannya
