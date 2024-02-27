@@ -2,5 +2,5 @@ ARMAN RESOLUSI
 - Saya ingin kalo sudah keluar dari pondok bisa buat aplikasi sendiri
 - Saya bercita-cita buat website Kasir
 - Saya ingin paham Javascript
-- Saya ingin paham PHP Framework
-  * Laravel
+  * Framework Javascript
+- Saya ingin paham PHP
